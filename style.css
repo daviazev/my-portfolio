@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: roboto;
+    color: black;
+}
+
+.mynamefather{
+    display: flex;
+    justify-content: center;
+    height: 636px; 
+    width: 100%; 
+    background: #0da783; 
+    color: white;
+}
+
+.myname{
+    align-self: center;
+    font-size: 55px;
+}
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+}
+
+.whoamifather{
+    display: flex;
+    align-items: center;
+    margin-top: 67px;
+}
+
+.whoami{
+    margin-left: 24px;
+    font-size: 100px;
+    padding: 60px;
+}
+
+img{
+    margin: 36px 0 50px 36px;
+    border-radius: 8px;
+    width: 400px;
+    float: left;
+}
+
+p{
+    margin-bottom: 24px;
+    font-size: 26px;
+}
+
