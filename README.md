@@ -1,5 +1,5 @@
 # Bem vindos! 
 
 <p>
-    Este é o repositório do meu portfólio. 🙂
+    Este é o meu portfólio. 🙂
 </p>
