@@ -1,11 +1,131 @@
+
 *{
     margin: 0;
     padding: 0;
 }
 
-html {
-    scroll-behavior: smooth;
+body{
+    font-family: roboto;
+    color: black;
 }
+
+p{
+    margin-bottom: 16px;
+    /* font-size: 26px; */
+}
+
+a{
+    text-decoration: none;
+}
+
+.mynamefather{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh; 
+    background: #0da783; 
+    color: white;
+}
+
+.myname{
+    align-self: center;
+    font-size: 24px;
+}
+
+
+#eu{
+    margin: 26px;
+    border-radius: 8px;
+    width: 250px;
+}
+
+
+.whoamifather{
+    min-height: 100vh;
+    /* display: flex;
+    align-items: center; */
+}
+
+.whoami{
+    margin: 0 13px 0;
+    font-size: 20px;
+    padding: 16px;
+}
+
+
+.h3{
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.projeto{
+    text-align: center;
+    background-color: #393d3f;
+    color: white;
+    padding: 60px;
+    width: 120px;
+    margin: 8px auto;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.projeto:hover{
+    background-color: #9CA3DB;
+}
+
+.redesPai{
+    display: flex;
+    justify-content: center;
+}
+
+.redes{
+    cursor: pointer;
+    width: 50px;
+    margin-right: 8px;
+    padding-top: 12px;
+}
+
+.h3footer{
+    margin-top: 8px;
+}
+
+footer{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px){
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* html {
+    scroll-behavior: smooth;
+} */
 
 body{
     font-family: roboto;
@@ -25,13 +145,13 @@ body{
     font-size: 55px;
 }
 
-a{
+/* a{
     color: #ffffff;
     text-decoration: none;
 }
 a:hover{
     color: yellow;
-}
+} */
 
 .whoamifather{
     min-height: 100vh;
@@ -115,7 +235,13 @@ p{
     padding-top: 12px;
 }
 
+.h3footer{
+    margin-top: 8px;
+}
+
 footer{
     margin-top: 100px;
     text-align: center;
+}
+
 }
