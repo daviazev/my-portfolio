@@ -1,4 +1,4 @@
-
+/* 
 *{
     margin: 0;
     padding: 0;
@@ -11,7 +11,6 @@ body{
 
 p{
     margin-bottom: 16px;
-    /* font-size: 26px; */
 }
 
 a{
@@ -41,8 +40,6 @@ a{
 
 .whoamifather{
     min-height: 100vh;
-    /* display: flex;
-    align-items: center; */
 }
 
 .whoami{
@@ -91,29 +88,7 @@ a{
 footer{
     margin-top: 50px;
     text-align: center;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+} */
 
 
 @media (min-width: 768px){
