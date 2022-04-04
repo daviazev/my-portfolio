@@ -9,6 +9,7 @@ body{
 }
 
 p{
+    text-align: justify;
     margin-bottom: 16px;
 }
 
@@ -33,7 +34,8 @@ a{
 #eu{
     margin: 26px;
     border-radius: 8px;
-    width: 250px;
+    width: 260px;
+
 }
 
 
@@ -57,7 +59,7 @@ a{
     background-color: #393d3f;
     color: white;
     padding: 60px;
-    width: 120px;
+    width: 150px;
     margin: 8px auto;
     border-radius: 8px;
     cursor: pointer;
